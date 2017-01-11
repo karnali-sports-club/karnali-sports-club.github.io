@@ -1,6 +1,7 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	font-family: 'Nunito', sans-serif;
 }
 ul{
 	list-style: none;
@@ -103,7 +104,7 @@ a:hover{
 
 }
 .about{
-	width: 420px;
+	width: 312px;
 	padding-left: 40px;
 	float: left;
 
@@ -117,13 +118,13 @@ a:hover{
 	text-align: center;
 }
 .award{
-	width: 410px;
+	width: 312px;
 	padding-left: 20px;
 	float: left;
 
 }
 .community{
-	width: 380px;
+	width: 312px;
 	padding-left: 20px;
 	margin-bottom: 80px;
 	float: left;
@@ -132,9 +133,8 @@ a:hover{
 }
 .buttonsection{
 	clear: both;
-	width: 600px;
+	width: 350px;
 	margin: auto;
-	margin-right: 258px;
 }
 .buttonOne
 {	

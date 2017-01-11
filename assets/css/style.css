@@ -18,6 +18,9 @@ a{
 	color: 	white;
 	text-decoration: 	none;	
 }
+a:hover{
+	color: blue;
+}
 .main-container
 {
 	width: 100%;
@@ -25,7 +28,7 @@ a{
 	
 }
 .upper-container{
-	width: 	1400px;
+	width: 	100%;
 	height: 	660px;
 	margin: 	auto;							
 	background-image: 		url(../images/uppercontainerpic.jpg);
@@ -36,7 +39,7 @@ a{
 }	
 .menubarcontainer{
 	width: 	1090px;
- 		background-position: center;
+ 	background-position: center;
 	margin: 	auto;	
 	padding-top: 	18px;
 	color: white;
@@ -62,6 +65,7 @@ a{
 	width: 	250px;
 	padding-top: 	18px;
 	margin-left:  20px;
+	font-size: 12px;
 	
 }
 .menubar{
@@ -69,13 +73,14 @@ a{
 	width: 	580px;
 	margin-left: 100px;
 	padding-top: 	20px;
+	font-size: 12px;
 }
 .righttextinuppercontainer{
 	clear: both;
 	margin-right: 200px;
 	margin-top: 200px;
 	float: right;
-	width: 200px;
+	width: 400px;
 	height: 200px;
 	background-color: #74C2D9;
 
@@ -90,7 +95,7 @@ a{
 .middlecontainer{
 
 	margin: auto;
-	width: 1400px;
+	width: 1090px;
 	margin-top: 2px;
 	height: 300px;
 	background-color: #E8E8E8;
@@ -158,7 +163,7 @@ a{
 }
 .middlecontainerTwo{
 	clear: both;
-	width: 1400px;
+	width: 1090;
 	margin: auto;
 	background-color:  #E3E3E3;
 	

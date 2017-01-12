@@ -182,35 +182,93 @@ a:hover{
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
 	float: left;
-	
+	background-color: #E3E3E3;
 	height: 180px;
 }
 .viewpic2{
-	width: 265px;
+	width: 268px;
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
 	margin-left: 5px; 
 	float: left;
 	height: 180px;
+	background-color: #E3E3E3;
 }
 .viewpic3{
-	width: 265px;
+	width: 270px;
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
+	margin-left: 5px;
 	float: left;
 	height: 180px;
+	background-color: #E3E3E3;
 }
 .viewpic4{
-	width: 265px;
+	width: 272px;
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
 	margin-left: 5px; 
 	float: left;
 	height: 180px;
+	background-color: #E3E3E3;
 }
-.eventdetails{
-	width: 265px;
+.eventname{
+	width: 272.5px;
 	float: left;
 	background-color: #E3E3E3;
-	
+}
+.eventdetails{
+	width: 272.5px;
+	height: 100px;
+	float: left;
+	background-color: #E3E3E3;
+}
+.buttonsectionofevent{
+	width: 1090px;
+	margin: auto;
+	clear: both;
+}
+.buttondetail1
+{
+	float: left;
+	width: 272.5px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	background-color: #74C4DB;
+	font-size: 18px;
+	text-align: center;     
+}
+.buttondetail2
+{
+	float: left;
+	width: 272.5px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	background-color: #74C4DB;
+	font-size: 18px;
+	text-align: center;     
+}
+.buttondetail3
+{
+	float: left;
+	width: 272.5px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	background-color: #74C4DB;
+	font-size: 18px;
+	text-align: center;     
+}
+.buttondetail4
+{
+	float: left;
+	width: 272.5px;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+	background-color: #74C4DB;
+	font-size: 18px;
+	text-align: center;     
 }

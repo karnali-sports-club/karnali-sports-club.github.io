@@ -5,6 +5,7 @@
 }
 ul{
 	list-style: none;
+	padding-left: 50px;
 	color: white;
 	margin: auto;
 }
@@ -16,8 +17,9 @@ li{
 	color: white;
 }
 a{
-	color: 	white;
+	color: 	black;
 	text-decoration: 	none;	
+	font-weight: bold;
 }
 a:hover{
 	color: #5c91a3;
@@ -30,76 +32,74 @@ a:hover{
 }
 .upper-container{
 	width: 	100%;
-	height: 	660px;
+	height: 	435px;
 	margin: 	auto;							
-	background-image: 		url(../images/uppercontainerpic.jpg);
+	background-image: 		url(../images/rara.png);
 	background-position: 	center;	
 	background-repeat: 	no-repeat;	
 	background-size: 1500px,450px;
+	margin-bottom: 13px;
 	
 }	
 .menubarcontainer{
 	width: 	1090px;
  	background-position: center;
 	margin: 	auto;	
-	padding-top: 	18px;
+	padding-top: 28px;
+ 	padding-left: 10px;
+  padding-right: 25px;
+	height: 47px;
 	color: white;
-	background-color: #182a38;
-	height: 70px;
+	
 
 }
 .logo{
 
 	margin: auto;	
 	float: 	left;	
-	width: 	110px;
-	height: 	90px;
-	padding-top: 	20px;
-	margin-left:  20px;
-	background-image: 	url(../images/logo.png);
+	position: absolute;
+	width: 71px; 
+	height: 70px;
+	top: 5px;
+	
 	background-repeat: 	no-repeat;	
 
 }
-.socialsite{
-	float: 	left;	
+.social-site{
+	float: 	right;	
 	margin: 	auto;	
-	width: 	250px;
-	padding-top: 	18px;
-	margin-left:  20px;
 	font-size: 12px;
 	
 }
 .menubar{
-	float: 	left;
-	width: 	580px;
-	margin-left: 100px;
-	padding-top: 	20px;
 	font-size: 12px;
+	float: left;
+	text-align: left;
+	width: 630px;
+	margin-bottom: 100px;
 }
-.righttextinuppercontainer{
+.right-text-upper-container{
 	clear: both;
-	margin-right: 200px;
-	margin-top: 200px;
-	float: right;
+	background-position: center;
+	position: relative;
+	margin: auto;
 	width: 400px;
-	height: 200px;
+	height: 150px;
 	background-color: #74C4Db;
-
+	clear: both;	
 }
 .pfontfirst{
-
+	color: #ffffff;
 	padding-top: 50px;
 	text-align: center;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 25px;
 }
-.middlecontainer{
-
-	margin: auto;
+.middle-container{
 	width: 1090px;
-	margin-top: 2px;
+	margin-top: 2	px;
+	margin: auto;
 	height: 300px;
-	background-color: #F3F3F3;
 
 
 }
@@ -112,10 +112,8 @@ a:hover{
 .gap
 {
 	padding-top: 20px;
-	font-size: 20px;
 	color: black;
 	padding-bottom: 20px;
-	text-align: center;
 }
 .award{
 	width: 312px;
@@ -131,7 +129,7 @@ a:hover{
 
 
 }
-.buttonsection{
+.button-section{
 	clear: both;
 	width: 350px;
 	margin: auto;
@@ -142,8 +140,6 @@ a:hover{
 	width: 105px;
 	margin-top: 5px;
 	padding: 5px;
-	color: white;
-	background-color: #74C4DB;
 	font-size: 18px;
 	float: left;
 	text-align: center;     
@@ -155,14 +151,28 @@ a:hover{
 	width: 105px;
 	margin-top: 5px;
 	padding: 5px;
-	color: white;
 	border: 0px;
-	background-color: #9A9A9A;
 	font-size: 18px;
 	text-align: center;
 	margin-bottom: 20px;
 }
-.middlecontainerTwo{	
+.blue-button{
+ border: 0; 
+ background: #74C4DB;
+ color: white; 
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.another-button{
+ border: 0; 
+ background: #9a9a9a;
+ color: white; 
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.middle-container-Two{	
 	clear: both;
 	margin-top: 50px;
 	width: 1090px;
@@ -170,7 +180,7 @@ a:hover{
 	background-color:  #E3E3E3;
 	
 }
-.lastesttournament{
+.lastest-tournament{
 	padding-top: 40px;
 	width: 1090px;
 	margin: auto;
@@ -223,12 +233,12 @@ a:hover{
 	float: left;
 	background-color: #E3E3E3;
 }
-.buttonsectionofevent{
+.button-section-event{
+	clear: both;
 	width: 1090px;
 	margin: auto;
-	clear: both;
 }
-.buttondetail1
+.button-detail1
 {
 	float: left;
 	width: 272.5px;
@@ -239,7 +249,7 @@ a:hover{
 	font-size: 18px;
 	text-align: center;     
 }
-.buttondetail2
+.button-detail2
 {
 	float: left;
 	width: 272.5px;
@@ -250,7 +260,7 @@ a:hover{
 	font-size: 18px;
 	text-align: center;     
 }
-.buttondetail3
+.button-detail3
 {
 	float: left;
 	width: 272.5px;
@@ -261,7 +271,7 @@ a:hover{
 	font-size: 18px;
 	text-align: center;     
 }
-.buttondetail4
+.button-detail4
 {
 	float: left;
 	width: 272.5px;

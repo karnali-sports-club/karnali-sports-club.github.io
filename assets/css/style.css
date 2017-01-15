@@ -186,7 +186,7 @@ a:hover{
 	width: 100%;
 	background-color: #e3e3e3;
 	margin: auto;
-	height: 300px;
+	height: 600px;
 }
 
 .latest-tournament{
@@ -210,6 +210,7 @@ a:hover{
 .latest-tournament-two{
 	margin: auto;
 	float: left;
+	margin-left: 8px;
 	width: 240px;
 	height: 150px;
 	background-image: url(../images/jumlatraining.jpg);
@@ -235,4 +236,114 @@ a:hover{
 	background-image: url(../images/jumlarara.jpg);
 	background-size: 240px,140px;
 	background-repeat: no-repeat;
+}
+.tournament-detail{
+	clear: both;
+	margin: auto;
+	width: 1090px;
+}
+.tournament-detail-one{
+	width: 240px;
+	padding-top: 5px;
+	float: left;
+	padding-left: 0px;
+	font-size: 12px;
+}
+.tournament-detail-two{
+	width: 265px;
+	float: left;
+	padding-top: 5px;
+	margin-left: 8PX;
+	font-size: 12px;
+}
+.tournament-detail-three{
+	width: 265px;
+	float: left;
+	padding-top: 5px;
+	padding-left: 8px;
+	margin-left: 8px;
+	font-size: 12px;
+}
+.tournament-detail-four{
+	width: 280px;
+	float: left;	
+	padding-top: 5px;
+	margin-left: 8px; 
+	padding-left: 8px;	
+	font-size: 12px;
+}
+.detail-text{
+	color: black;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.button-one{
+ border: 0; 
+ background: #9a9a9a;
+ color: white; 
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.button-two{
+ border: 0; 
+ background: #9a9a9a;
+ color: white; 
+ float: left;
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.button-three{
+ border: 0; 
+ background: #9a9a9a;
+ color: white; 
+ float: left;
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.button-four{
+ border: 0; 
+ background: #9a9a9a;
+ color: white; 
+ width: 115px; 
+ height: 35px; 	
+ font-size: 13px;
+}
+.button-size-one
+{	
+	clear: both;
+	width: 260px;
+	float: left;
+	margin-top: 15px;
+	padding: 5px;
+	font-size: 18px;
+	float: left;
+	text-align: center;     
+}
+.button-size-two{	
+	width: 260px;
+	float: left;
+	margin-top: 15px;
+	padding: 5px;
+	font-size: 18px;
+	float: left;
+	text-align: center;     
+}.button-size-three{	
+	float: left;
+	width: 260px;
+	margin-top: 15px;
+	padding: 5px;
+	font-size: 18px;
+	float: left;
+	text-align: center;     
+}.button-size-four{	
+	float: left;
+	width: 260px;
+	margin-top: 15px;
+	padding: 5px;
+	font-size: 18px;
+	float: left;
+	text-align: center;     
 }

@@ -314,35 +314,33 @@ a:hover{
 .button-size-one
 {	
 	clear: both;
-	width: 260px;
+	width: 216px;
 	float: left;
 	margin-top: 15px;
-	padding: 5px;
+	margin-right: 80px;
 	font-size: 18px;
-	float: left;
 	text-align: center;     
 }
 .button-size-two{	
 	width: 260px;
 	float: left;
+	text-align: center;
 	margin-top: 15px;
-	padding: 5px;
-	font-size: 18px;
-	float: left;
-	text-align: center;     
+	margin-right: 50px;
+	font-size: 18px;   
 }.button-size-three{	
 	float: left;
-	width: 260px;
+	width: 216px;
 	margin-top: 15px;
-	padding: 5px;
+	padding: 0px;
 	font-size: 18px;
 	float: left;
 	text-align: center;     
 }.button-size-four{	
 	float: left;
-	width: 260px;
+	width: 216px;
 	margin-top: 15px;
-	padding: 5px;
+	padding: 0px;
 	font-size: 18px;
 	float: left;
 	text-align: center;     

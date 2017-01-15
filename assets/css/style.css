@@ -180,107 +180,59 @@ a:hover{
 	width: 1090px;
 	margin: auto;
 	background-color:  #E3E3E3;
-	
-}
-.lastest-tournament{
-	padding-top: 40px;
-	width: 1090px;
-	margin: auto;
-	background-color: #e3e3e3;
+	}
 
-}
-.viewpic1{
-	width: 265px;
-	background-image: url(../images/logo.png);
-	background-repeat: no-repeat;
-	float: left;
-	background-color: #E3E3E3;
-	height: 180px;
-}
-.viewpic2{
-	width: 268px;
-	background-image: url(../images/logo.png);
-	background-repeat: no-repeat;
-	margin-left: 5px; 
-	float: left;
-	height: 180px;
-	background-color: #E3E3E3;
-}
-.viewpic3{
-	width: 270px;
-	background-image: url(../images/logo.png);
-	background-repeat: no-repeat;
-	margin-left: 5px;
-	float: left;
-	height: 180px;
-	background-color: #E3E3E3;
-}
-.viewpic4{
-	width: 272px;
-	background-image: url(../images/logo.png);
-	background-repeat: no-repeat;
-	margin-left: 5px; 
-	float: left;
-	height: 180px;
-	background-color: #E3E3E3;
-}
-.eventname{
-	width: 272.5px;
-	float: left;
-	background-color: #E3E3E3;
-}
-.eventdetails{
-	width: 272.5px;
-	height: 100px;
-	float: left;
-	background-color: #E3E3E3;
-}
-.button-section-event{
-	clear: both;
-	width: 1090px;
+.latest-tournament-container{
+	width: 100%;
+	background-color: #e3e3e3;
 	margin: auto;
+	height: 300px;
 }
-.button-detail1
-{
-	float: left;
-	width: 272.5px;
-	margin-top: 5px;
-	padding: 5px;
-	color: white;
-	background-color: #74C4DB;
-	font-size: 18px;
-	text-align: center;     
+
+.latest-tournament{
+	margin: auto;
+	padding-top: 20px;
+	width: 1090px;
 }
-.button-detail2
-{
-	float: left;
-	width: 272.5px;
-	margin-top: 5px;
-	padding: 5px;
-	color: white;
-	background-color: #74C4DB;
-	font-size: 18px;
-	text-align: center;     
+.tournament-collection{
+	margin: auto;
+	width: 1090px;
 }
-.button-detail3
-{
+.latest-tournament-one{
+	margin: auto;
 	float: left;
-	width: 272.5px;
-	margin-top: 5px;
-	padding: 5px;
-	color: white;
-	background-color: #74C4DB;
-	font-size: 18px;
-	text-align: center;     
+	width: 240px;
+	height: 150px;
+	background-image: url(../images/jumlarara.jpg);
+	background-size: 200px,140px;
+	background-repeat: no-repeat;
 }
-.button-detail4
-{
+.latest-tournament-two{
+	margin: auto;
 	float: left;
-	width: 272.5px;
-	margin-top: 5px;
-	padding: 5px;
-	color: white;
-	background-color: #74C4DB;
-	font-size: 18px;
-	text-align: center;     
+	width: 240px;
+	height: 150px;
+	background-image: url(../images/jumlatraining.jpg);
+	background-size: 240px,140px;
+	background-repeat: no-repeat;
+}
+.latest-tournament-three{
+	margin: auto;
+	float: left;
+	width: 240px;
+	margin-left: 40px;
+	height: 150px;
+	background-image: url(../images/ultranorthface.jpg);
+	background-size: 240px,140px;
+	background-repeat: no-repeat;
+}
+.latest-tournament-four{
+	margin: auto;
+	float: left;
+	width: 240px;
+	margin-left: 40px;
+	height: 150px;
+	background-image: url(../images/jumlarara.jpg);
+	background-size: 240px,140px;
+	background-repeat: no-repeat;
 }

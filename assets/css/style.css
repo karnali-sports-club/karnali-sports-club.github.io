@@ -217,6 +217,12 @@ a:hover{
 	background-size: 240px,140px;
 	background-repeat: no-repeat;
 }
+
+.tournament-img{
+	border: 2px solid #f8f8f8;
+	border-radius: 5px;
+}
+
 .latest-tournament-three{
 	margin: auto;
 	float: left;
